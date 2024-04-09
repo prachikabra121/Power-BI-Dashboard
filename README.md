@@ -1,7 +1,6 @@
 # Power-BI-Dashboard
 Broker Performance and Business class Analysis
 
-
 1. Broker Performance Table:
    
 i)Constructed "Top 10 Brokers" tables based on Gross Written Premium (GWP) for Open Market, Facilities, and Combined, in the 'Broker Stats' tab.
